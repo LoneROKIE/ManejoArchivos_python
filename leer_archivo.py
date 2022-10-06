@@ -29,5 +29,5 @@ archivo2.write(archivo.read()) # archivo2 copia lo que leyo archivo.read()
 archivo2.close()
 archivo.close()
 
-
+#.
 
